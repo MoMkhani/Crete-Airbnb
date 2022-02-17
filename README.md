@@ -8,6 +8,6 @@ The gorgeous island of Crete, on the southern portion of the Aegean Sea, is one 
 * Calculated level of details expressions derived from data such as the number of stays or percentage increase/decrease from one year to another.
 * Improved user experience by drillthrough filters and visual interactions.
 
-Dashboard is available on ![Tableau Public](https://public.tableau.com/app/profile/mo.with.data/viz/CreteAirbnb/Dashboard)
+Dashboard is available on [Tableau Public](https://public.tableau.com/app/profile/mo.with.data/viz/CreteAirbnb/Dashboard)
 
 ![KPI-dashboard](Dashboard.png)
